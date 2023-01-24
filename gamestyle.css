@@ -1,0 +1,78 @@
+ h1{
+    font-size:medium;
+    color: coral;
+    text-shadow: 2px 2px  lightpink;
+}
+div{
+    border: 5px groove rgba(12, 202, 50, 0.471);
+    width: auto;
+    height: auto;
+    background-image: url("game.jpg");
+    background-size: auto;
+    cursor: pointer;
+    box-shadow: 3px 4px 5px lightgoldenrodyellow;
+    
+}
+#NAME{
+    color: rgb(201, 111, 111);
+}
+#NAME2{
+    color:yellow;
+}
+aside{
+    width: 150px;
+    padding-left: 50px;
+    float: right;
+    margin-left: 50%;
+    background-color:lightgoldenrodyellow;
+    text-transform: capitalize;
+    border:5px groove black;
+    cursor: pointer;
+    box-shadow: 5px 10px 5px lightgreen;
+    
+}
+nav {
+    text-align: right;
+    text-shadow: 2px 2px 5px lightcoral;
+}
+body{
+    background-image: url("cod.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    
+
+}
+marquee{
+    color: bisque;
+    font-size: larger;
+    text-shadow: 2px 2px rgb(12, 211, 15);
+}
+video{
+    width: 250px;
+    height:200px;
+    padding-left: 900px;
+}
+article{
+    text-align: center;
+    font-size: x-large;
+    border: 5px solid lightseagreen;
+    border-radius: 25px;
+    width:fit-content;
+    cursor: pointer;
+}
+ 
+label{
+    color: whitesmoke;
+    font-size: large;
+    border: 5px solid gold;
+    border-radius: 25px;
+    text-align: top;
+}
+footer{
+    color: aquamarine;
+    cursor: pointer;
+    text-align: center;
+    text-shadow: 50px;
+    font-size: large;
+}
+ 
